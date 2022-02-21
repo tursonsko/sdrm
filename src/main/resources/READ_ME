@@ -1,0 +1,2 @@
+uruchomienie dockerowego skryptu do tworzenia bazy lokalnie
+1. z poziomu głównego pakietu  "docker compose up"
